@@ -1,0 +1,10 @@
+.button-apply {
+    color: #ffffff;
+    background-color: #365b6d;
+    border-radius: 12px;
+}
+.button-apply:hover {
+    background-color: #b8a076;
+    border: none;
+    outline: none;
+}
